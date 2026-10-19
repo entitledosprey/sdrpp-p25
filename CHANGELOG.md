@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Documentation: how the solution works, a complete install guide, troubleshooting, and
+  development notes covering design decisions, verified decoder/SDR++ behaviour and a runbook.
+
 ## 0.1.0 (2026-10-19)
 
 First working version.
