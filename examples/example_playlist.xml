@@ -1,0 +1,29 @@
+<playlist version="4">
+  <alias color="-14782503" group="Example Fire" name="Example Fire Dispatch" list="Example System">
+    <id type="talkgroup" value="1001" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Example Fire" name="Example Fire Tac 1" list="Example System">
+    <id type="talkgroup" value="1002" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Example Public Works" name="Example Public Works" list="Example System">
+    <id type="talkgroup" value="1101" protocol="APCO25"/>
+  </alias>
+  <channel system="Example System" name="Example North Site" enabled="false" site="North Site (1-1)" order="1">
+    <alias_list_name>Example System</alias_list_name>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="500" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>851012500</frequency>
+      <frequency>851512500</frequency>
+    </source_configuration>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="C4FM"/>
+  </channel>
+  <channel system="Example System" name="Example Simulcast" enabled="false" site="Downtown Simulcast (1-2)" order="2">
+    <alias_list_name>Example System</alias_list_name>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="500" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>852037500</frequency>
+      <frequency>854212500</frequency>
+      <frequency>855987500</frequency>
+    </source_configuration>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="CQPSK"/>
+  </channel>
+</playlist>

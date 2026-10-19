@@ -1,0 +1,8 @@
+{
+  "name": "Example System - North Site",
+  "system": "Example System",
+  "modulation": "C4FM",
+  "control_channels": [851012500, 851512500],
+  "voice_frequencies": [],
+  "group_csv": "groups/Example_System.csv"
+}

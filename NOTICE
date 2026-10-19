@@ -1,0 +1,10 @@
+sdrpp-p25 is free software under the GNU General Public License v3.0 or later (see LICENSE).
+It links against the SDR++ core library (GPL-3.0).
+
+Decoding is done by dsd-neo (https://github.com/arancormonk/dsd-neo, GPL-3.0), which runs as a
+separate program and is not included here. dsd-neo uses mbelib-neo for IMBE (P25 Phase 1) and
+AMBE+2 (P25 Phase 2) voice. Implementations of these vocoders may be covered by patents in some
+jurisdictions; check the rules where you live before using them.
+
+This software is for receiving only. Do not use it to decrypt anything, and respect the laws
+on monitoring and on divulging the content of communications where you live.
