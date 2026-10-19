@@ -1,0 +1,1202 @@
+<playlist version="4">
+  <alias color="-14782503" group="Williamson Co Law" name="WC Const 4328" list="GATRRS">
+    <id type="talkgroup" value="4328" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Williamson Co Law" name="WC Const 4329" list="GATRRS">
+    <id type="talkgroup" value="4329" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Williamson Co Law" name="WC Const Tac 3" list="GATRRS">
+    <id type="talkgroup" value="4330" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Williamson Co Law" name="WCSO Tac 1" list="GATRRS">
+    <id type="talkgroup" value="4406" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Williamson Co Law" name="WCSO Tac 2" list="GATRRS">
+    <id type="talkgroup" value="4407" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Williamson Co Law" name="WC Tx DPS" list="GATRRS">
+    <id type="talkgroup" value="4424" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Williamson Co Law" name="WCSO Call 1" list="GATRRS">
+    <id type="talkgroup" value="4440" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Williamson Co Law" name="WCSO Call 2" list="GATRRS">
+    <id type="talkgroup" value="4441" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Williamson Co Law" name="WCSO Traf 1" list="GATRRS">
+    <id type="talkgroup" value="4463" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Williamson Co Law" name="WCSO Traf 2" list="GATRRS">
+    <id type="talkgroup" value="4464" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Williamson Co Law" name="WC Law Emer" list="GATRRS">
+    <id type="talkgroup" value="4529" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Williamson Co Law" name="WC Const Tac 2" list="GATRRS">
+    <id type="talkgroup" value="4549" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC DECON 1" list="GATRRS">
+    <id type="talkgroup" value="4334" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC DECON 2" list="GATRRS">
+    <id type="talkgroup" value="4335" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC DECON 3" list="GATRRS">
+    <id type="talkgroup" value="4336" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC HZM MED4" list="GATRRS">
+    <id type="talkgroup" value="4337" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC EMS 4339" list="GATRRS">
+    <id type="talkgroup" value="4339" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC EMS EVT 1" list="GATRRS">
+    <id type="talkgroup" value="4340" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC EMS EVT 2" list="GATRRS">
+    <id type="talkgroup" value="4341" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC EMS DISP" list="GATRRS">
+    <id type="talkgroup" value="4342" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC EMS TAC 2" list="GATRRS">
+    <id type="talkgroup" value="4343" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC HAZMAT" list="GATRRS">
+    <id type="talkgroup" value="4351" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC HZM TAC1" list="GATRRS">
+    <id type="talkgroup" value="4352" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC HZM TAC2" list="GATRRS">
+    <id type="talkgroup" value="4353" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC HZM TAC3" list="GATRRS">
+    <id type="talkgroup" value="4354" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC HZM TAC4" list="GATRRS">
+    <id type="talkgroup" value="4355" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC HZM MED1" list="GATRRS">
+    <id type="talkgroup" value="4356" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC HZM MED2" list="GATRRS">
+    <id type="talkgroup" value="4357" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC HZM MED3" list="GATRRS">
+    <id type="talkgroup" value="4358" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC HZM OPS1" list="GATRRS">
+    <id type="talkgroup" value="4359" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC HZM OPS2" list="GATRRS">
+    <id type="talkgroup" value="4360" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC HZM OPS3" list="GATRRS">
+    <id type="talkgroup" value="4361" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC HZM OPS4" list="GATRRS">
+    <id type="talkgroup" value="4362" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC HZM EMRG" list="GATRRS">
+    <id type="talkgroup" value="4363" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 1" list="GATRRS">
+    <id type="talkgroup" value="4389" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 2" list="GATRRS">
+    <id type="talkgroup" value="4390" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 3" list="GATRRS">
+    <id type="talkgroup" value="4391" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 4" list="GATRRS">
+    <id type="talkgroup" value="4392" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 5" list="GATRRS">
+    <id type="talkgroup" value="4393" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 6" list="GATRRS">
+    <id type="talkgroup" value="4394" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 7" list="GATRRS">
+    <id type="talkgroup" value="4395" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 8" list="GATRRS">
+    <id type="talkgroup" value="4396" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 9" list="GATRRS">
+    <id type="talkgroup" value="4397" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 10" list="GATRRS">
+    <id type="talkgroup" value="4398" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 11" list="GATRRS">
+    <id type="talkgroup" value="4399" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 12" list="GATRRS">
+    <id type="talkgroup" value="4400" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 13" list="GATRRS">
+    <id type="talkgroup" value="4401" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 14" list="GATRRS">
+    <id type="talkgroup" value="4402" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 15" list="GATRRS">
+    <id type="talkgroup" value="4403" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC SCENE 16" list="GATRRS">
+    <id type="talkgroup" value="4404" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC HELO 1" list="GATRRS">
+    <id type="talkgroup" value="4415" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC HELO 2" list="GATRRS">
+    <id type="talkgroup" value="4416" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC HELO 3" list="GATRRS">
+    <id type="talkgroup" value="4417" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC HELO 4" list="GATRRS">
+    <id type="talkgroup" value="4418" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="SB FD TALK1" list="GATRRS">
+    <id type="talkgroup" value="4420" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 1" list="GATRRS">
+    <id type="talkgroup" value="4425" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 2" list="GATRRS">
+    <id type="talkgroup" value="4426" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 3" list="GATRRS">
+    <id type="talkgroup" value="4427" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 4" list="GATRRS">
+    <id type="talkgroup" value="4428" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 5" list="GATRRS">
+    <id type="talkgroup" value="4429" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 6" list="GATRRS">
+    <id type="talkgroup" value="4430" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 7" list="GATRRS">
+    <id type="talkgroup" value="4431" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 8" list="GATRRS">
+    <id type="talkgroup" value="4432" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 9" list="GATRRS">
+    <id type="talkgroup" value="4433" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 10" list="GATRRS">
+    <id type="talkgroup" value="4434" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 11" list="GATRRS">
+    <id type="talkgroup" value="4435" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 12" list="GATRRS">
+    <id type="talkgroup" value="4436" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 13" list="GATRRS">
+    <id type="talkgroup" value="4437" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FIRE 14" list="GATRRS">
+    <id type="talkgroup" value="4438" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FD W Admin" list="GATRRS">
+    <id type="talkgroup" value="4439" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC W MED 3" list="GATRRS">
+    <id type="talkgroup" value="4469" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC W FIRE 3" list="GATRRS">
+    <id type="talkgroup" value="4470" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC W FIRE 4" list="GATRRS">
+    <id type="talkgroup" value="4471" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="JLLYVIL MED1" list="GATRRS">
+    <id type="talkgroup" value="4472" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC W SCENE 1" list="GATRRS">
+    <id type="talkgroup" value="4473" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC W SCENE 2" list="GATRRS">
+    <id type="talkgroup" value="4474" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="SAMBASS MED1" list="GATRRS">
+    <id type="talkgroup" value="4475" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC W SCENE 4" list="GATRRS">
+    <id type="talkgroup" value="4476" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC W MED 2" list="GATRRS">
+    <id type="talkgroup" value="4477" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC W MED 1" list="GATRRS">
+    <id type="talkgroup" value="4480" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC W FIRE 1" list="GATRRS">
+    <id type="talkgroup" value="4481" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC W FIRE 2" list="GATRRS">
+    <id type="talkgroup" value="4482" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC C MED 1" list="GATRRS">
+    <id type="talkgroup" value="4483" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC C FIRE 1" list="GATRRS">
+    <id type="talkgroup" value="4484" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC C FIRE 2" list="GATRRS">
+    <id type="talkgroup" value="4485" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="JARRELL MED1" list="GATRRS">
+    <id type="talkgroup" value="4486" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC C FIRE 3" list="GATRRS">
+    <id type="talkgroup" value="4487" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC C FIRE 4" list="GATRRS">
+    <id type="talkgroup" value="4488" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC C MED 3" list="GATRRS">
+    <id type="talkgroup" value="4489" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC C SCENE 1" list="GATRRS">
+    <id type="talkgroup" value="4490" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC C SCENE 2" list="GATRRS">
+    <id type="talkgroup" value="4491" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="BARTLET MED1" list="GATRRS">
+    <id type="talkgroup" value="4497" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="BRTLET FIRE1" list="GATRRS">
+    <id type="talkgroup" value="4498" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC E MED 3" list="GATRRS">
+    <id type="talkgroup" value="4499" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="GRANGR FIRE1" list="GATRRS">
+    <id type="talkgroup" value="4500" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC E MED 2 (part enc)" list="GATRRS">
+    <id type="talkgroup" value="4501" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC E FIRE 3" list="GATRRS">
+    <id type="talkgroup" value="4502" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC E MED 1" list="GATRRS">
+    <id type="talkgroup" value="4503" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC E FIRE 1" list="GATRRS">
+    <id type="talkgroup" value="4504" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC E FIRE 2" list="GATRRS">
+    <id type="talkgroup" value="4505" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="THRALL MED 1" list="GATRRS">
+    <id type="talkgroup" value="4506" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC E SCENE 1" list="GATRRS">
+    <id type="talkgroup" value="4507" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="COUPLND MED1" list="GATRRS">
+    <id type="talkgroup" value="4508" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="COUPLD FIRE1" list="GATRRS">
+    <id type="talkgroup" value="4509" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FD TRAIN" list="GATRRS">
+    <id type="talkgroup" value="4510" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FD EMERG" list="GATRRS">
+    <id type="talkgroup" value="4511" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FD CENTR" list="GATRRS">
+    <id type="talkgroup" value="4512" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FD EAST" list="GATRRS">
+    <id type="talkgroup" value="4514" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC EMS EAST" list="GATRRS">
+    <id type="talkgroup" value="4515" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC EMS NORTH" list="GATRRS">
+    <id type="talkgroup" value="4516" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC EMS SOUTH" list="GATRRS">
+    <id type="talkgroup" value="4517" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FD WEST" list="GATRRS">
+    <id type="talkgroup" value="4518" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC EMS WEST" list="GATRRS">
+    <id type="talkgroup" value="4519" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC DECON 4" list="GATRRS">
+    <id type="talkgroup" value="4533" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC TECH OPS1" list="GATRRS">
+    <id type="talkgroup" value="4534" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC TECH OPS2" list="GATRRS">
+    <id type="talkgroup" value="4535" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC TECH OPS3" list="GATRRS">
+    <id type="talkgroup" value="4536" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC TECH OPS4" list="GATRRS">
+    <id type="talkgroup" value="4537" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC TECH OPS5" list="GATRRS">
+    <id type="talkgroup" value="4538" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FD E Admin" list="GATRRS">
+    <id type="talkgroup" value="4609" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC FD C Admin" list="GATRRS">
+    <id type="talkgroup" value="4610" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC Fire 4628" list="GATRRS">
+    <id type="talkgroup" value="4628" protocol="APCO25"/>
+  </alias>
+  <alias color="-2527309" group="Williamson Co Fire/EMS" name="CEDARPARK ER" list="GATRRS">
+    <id type="talkgroup" value="4630" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC S MED 1" list="GATRRS">
+    <id type="talkgroup" value="4707" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="WC S MED 2" list="GATRRS">
+    <id type="talkgroup" value="4708" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC S MED 3" list="GATRRS">
+    <id type="talkgroup" value="4709" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC S MED 4" list="GATRRS">
+    <id type="talkgroup" value="4710" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC S MED 5" list="GATRRS">
+    <id type="talkgroup" value="4711" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Williamson Co Fire/EMS" name="WC S MED 6" list="GATRRS">
+    <id type="talkgroup" value="4712" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC S SCENE1" list="GATRRS">
+    <id type="talkgroup" value="4730" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC S SCENE2" list="GATRRS">
+    <id type="talkgroup" value="4731" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC S SCENE3" list="GATRRS">
+    <id type="talkgroup" value="4732" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC S SCENE4" list="GATRRS">
+    <id type="talkgroup" value="4733" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC S SCENE5" list="GATRRS">
+    <id type="talkgroup" value="4734" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Williamson Co Fire/EMS" name="WC S SCENE6" list="GATRRS">
+    <id type="talkgroup" value="4735" protocol="APCO25"/>
+  </alias>
+  <alias color="-2527309" group="Williamson Co Fire/EMS" name="ROUNDROCK ER" list="GATRRS">
+    <id type="talkgroup" value="4774" protocol="APCO25"/>
+  </alias>
+  <alias color="-2527309" group="Williamson Co Fire/EMS" name="SETONRDRK ER" list="GATRRS">
+    <id type="talkgroup" value="4778" protocol="APCO25"/>
+  </alias>
+  <alias color="-2527309" group="Williamson Co Fire/EMS" name="SCOTTNWHT ER" list="GATRRS">
+    <id type="talkgroup" value="4780" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="JAR FD CMND" list="GATRRS">
+    <id type="talkgroup" value="4808" protocol="APCO25"/>
+  </alias>
+  <alias color="-2527309" group="Williamson Co Fire/EMS" name="GEORGETWN ER" list="GATRRS">
+    <id type="talkgroup" value="4811" protocol="APCO25"/>
+  </alias>
+  <alias color="-2527309" group="Williamson Co Fire/EMS" name="EMS SDLeander ER" list="GATRRS">
+    <id type="talkgroup" value="4929" protocol="APCO25"/>
+  </alias>
+  <alias color="-2527309" group="Williamson Co Fire/EMS" name="SCTTWHITE ER" list="GATRRS">
+    <id type="talkgroup" value="4956" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="COUPLND FD5006" list="GATRRS">
+    <id type="talkgroup" value="5006" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="FLR VFD ADMN" list="GATRRS">
+    <id type="talkgroup" value="5009" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="JAR FD PRIM" list="GATRRS">
+    <id type="talkgroup" value="5022" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="JVL VFD TAC1" list="GATRRS">
+    <id type="talkgroup" value="5030" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="JVL VFD ADMN" list="GATRRS">
+    <id type="talkgroup" value="5032" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="SB FD ADMIN" list="GATRRS">
+    <id type="talkgroup" value="5045" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="SB FD TAC1" list="GATRRS">
+    <id type="talkgroup" value="5046" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Williamson Co Fire/EMS" name="SB FD Tac 2" list="GATRRS">
+    <id type="talkgroup" value="5047" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="NEEOC LE" list="GATRRS">
+    <id type="talkgroup" value="4364" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="NEEOC FD" list="GATRRS">
+    <id type="talkgroup" value="4365" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="NEEOC EMS" list="GATRRS">
+    <id type="talkgroup" value="4366" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="NEEOC IC" list="GATRRS">
+    <id type="talkgroup" value="4367" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="NWEOC LE" list="GATRRS">
+    <id type="talkgroup" value="4368" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="NWEOC FD" list="GATRRS">
+    <id type="talkgroup" value="4369" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="NWEOC EMS" list="GATRRS">
+    <id type="talkgroup" value="4370" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="NWEOC IC" list="GATRRS">
+    <id type="talkgroup" value="4371" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="SEEOC LE" list="GATRRS">
+    <id type="talkgroup" value="4372" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="SEEOC FD" list="GATRRS">
+    <id type="talkgroup" value="4373" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="SEEOC EMS" list="GATRRS">
+    <id type="talkgroup" value="4374" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="SEEOC IC" list="GATRRS">
+    <id type="talkgroup" value="4375" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="SWEOC LE" list="GATRRS">
+    <id type="talkgroup" value="4376" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="SWEOC FD" list="GATRRS">
+    <id type="talkgroup" value="4377" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="SWEOC EMS" list="GATRRS">
+    <id type="talkgroup" value="4378" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="SWEOC IC" list="GATRRS">
+    <id type="talkgroup" value="4379" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Williamson Co Emergency Mgmt" name="WC HOSP" list="GATRRS">
+    <id type="talkgroup" value="4468" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD CID 1" list="GATRRS">
+    <id type="talkgroup" value="4746" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD EMERG" list="GATRRS">
+    <id type="talkgroup" value="4750" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD DELL DIAMN" list="GATRRS">
+    <id type="talkgroup" value="4751" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD N CMD" list="GATRRS">
+    <id type="talkgroup" value="4758" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD S CMD" list="GATRRS">
+    <id type="talkgroup" value="4759" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD SPECOP" list="GATRRS">
+    <id type="talkgroup" value="4762" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD TAC 1" list="GATRRS">
+    <id type="talkgroup" value="4763" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD TAC 2" list="GATRRS">
+    <id type="talkgroup" value="4764" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD TAC 3" list="GATRRS">
+    <id type="talkgroup" value="4765" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD TAC 4" list="GATRRS">
+    <id type="talkgroup" value="4766" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD TAC 5" list="GATRRS">
+    <id type="talkgroup" value="4767" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD TAC 6" list="GATRRS">
+    <id type="talkgroup" value="4768" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD SECURE" list="GATRRS">
+    <id type="talkgroup" value="4769" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR TRAFFIC 1" list="GATRRS">
+    <id type="talkgroup" value="4770" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Round Rock Police" name="RR PD TRAINING" list="GATRRS">
+    <id type="talkgroup" value="4773" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Round Rock Fire" name="RR FD SCN1" list="GATRRS">
+    <id type="talkgroup" value="4715" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Round Rock Fire" name="RR FD SCN2" list="GATRRS">
+    <id type="talkgroup" value="4716" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Round Rock Fire" name="RR FD SCN3" list="GATRRS">
+    <id type="talkgroup" value="4717" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Round Rock Fire" name="RR FD SCN4" list="GATRRS">
+    <id type="talkgroup" value="4718" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Round Rock Fire" name="RR FD SCN5" list="GATRRS">
+    <id type="talkgroup" value="4719" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Round Rock Fire" name="RR FD TRN1" list="GATRRS">
+    <id type="talkgroup" value="4720" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Round Rock Fire" name="RR FD TRN2" list="GATRRS">
+    <id type="talkgroup" value="4721" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Round Rock Fire" name="RR FD DISP" list="GATRRS">
+    <id type="talkgroup" value="4739" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Round Rock Fire" name="RR FD FIRE1" list="GATRRS">
+    <id type="talkgroup" value="4741" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Round Rock Fire" name="RR FD FIRE2" list="GATRRS">
+    <id type="talkgroup" value="4742" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Round Rock Fire" name="RR FD FIRE3" list="GATRRS">
+    <id type="talkgroup" value="4743" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Round Rock Fire" name="RR FD FIRE4" list="GATRRS">
+    <id type="talkgroup" value="4744" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Round Rock Fire" name="RR FD FIRE5" list="GATRRS">
+    <id type="talkgroup" value="4745" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Round Rock Fire" name="RR FD FIRE6" list="GATRRS">
+    <id type="talkgroup" value="4785" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Round Rock Fire" name="RR FD INSP" list="GATRRS">
+    <id type="talkgroup" value="4786" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Georgetown Police" name="GT PD Dispatch 1" list="GATRRS">
+    <id type="talkgroup" value="4831" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Georgetown Police" name="GT PD Patrol" list="GATRRS">
+    <id type="talkgroup" value="4833" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Georgetown Police" name="GT PD Dispatch 2" list="GATRRS">
+    <id type="talkgroup" value="4849" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2061794" group="Georgetown Fire" name="GT Med 1" list="GATRRS">
+    <id type="talkgroup" value="4492" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2061794" group="Georgetown Fire" name="GT Med 2" list="GATRRS">
+    <id type="talkgroup" value="4493" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Georgetown Fire" name="GT Fire 1" list="GATRRS">
+    <id type="talkgroup" value="4494" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Georgetown Fire" name="GT Fire 2" list="GATRRS">
+    <id type="talkgroup" value="4495" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Georgetown Fire" name="GT Fire 3" list="GATRRS">
+    <id type="talkgroup" value="4496" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Georgetown Fire" name="GT Fire 4" list="GATRRS">
+    <id type="talkgroup" value="4812" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Georgetown Fire" name="GT Fire 5" list="GATRRS">
+    <id type="talkgroup" value="4813" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Georgetown Fire" name="GT Fire 8" list="GATRRS">
+    <id type="talkgroup" value="4814" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Georgetown Fire" name="GT Fire A/P" list="GATRRS">
+    <id type="talkgroup" value="4816" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Georgetown Fire" name="GT Fire 4819" list="GATRRS">
+    <id type="talkgroup" value="4819" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Georgetown Fire" name="GT Fire 4823" list="GATRRS">
+    <id type="talkgroup" value="4823" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Georgetown Fire" name="GT Fire Disp" list="GATRRS">
+    <id type="talkgroup" value="4828" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Georgetown Fire" name="GT Fire Train" list="GATRRS">
+    <id type="talkgroup" value="4830" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Georgetown Fire" name="GT Fire Disp 2" list="GATRRS">
+    <id type="talkgroup" value="4846" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Georgetown Fire" name="GT PD/FD" list="GATRRS">
+    <id type="talkgroup" value="4873" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Cedar Park Police" name="CP PD Tac 1" list="GATRRS">
+    <id type="talkgroup" value="4661" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Cedar Park Police" name="CP PD Tac 2" list="GATRRS">
+    <id type="talkgroup" value="4662" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Cedar Park Police" name="CP PD Tac 3" list="GATRRS">
+    <id type="talkgroup" value="4663" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Cedar Park Police" name="CP PD Tac 4" list="GATRRS">
+    <id type="talkgroup" value="4664" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Cedar Park Police" name="CP PD Dispatch 1" list="GATRRS">
+    <id type="talkgroup" value="4666" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Cedar Park Police" name="CP PD Dispatch 2 (part enc)" list="GATRRS">
+    <id type="talkgroup" value="4667" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Cedar Park Police" name="CP PD Inform" list="GATRRS">
+    <id type="talkgroup" value="4668" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Cedar Park Police" name="CP PD Traffic (part enc)" list="GATRRS">
+    <id type="talkgroup" value="4669" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Cedar Park Police" name="CP PD 4670" list="GATRRS">
+    <id type="talkgroup" value="4670" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Cedar Park Police" name="CP PD Mutual Aid (part enc)" list="GATRRS">
+    <id type="talkgroup" value="4672" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Cedar Park Fire" name="CP FD Primary" list="GATRRS">
+    <id type="talkgroup" value="4632" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Cedar Park Fire" name="CP FD 4645" list="GATRRS">
+    <id type="talkgroup" value="4645" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Cedar Park Fire" name="CP FD Admin" list="GATRRS">
+    <id type="talkgroup" value="4646" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Cedar Park Fire" name="CP FD HEB Arena" list="GATRRS">
+    <id type="talkgroup" value="4648" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Cedar Park Fire" name="CP FD 4653" list="GATRRS">
+    <id type="talkgroup" value="4653" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Cedar Park Fire" name="CP FD 4657" list="GATRRS">
+    <id type="talkgroup" value="4657" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Cedar Park Fire" name="CP FD Fire 1" list="GATRRS">
+    <id type="talkgroup" value="4679" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Cedar Park Fire" name="CP FD Fire 2" list="GATRRS">
+    <id type="talkgroup" value="4680" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Cedar Park Fire" name="CP FD 4682" list="GATRRS">
+    <id type="talkgroup" value="4682" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Leander" name="Leander FD Fire1" list="GATRRS">
+    <id type="talkgroup" value="4478" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Leander" name="Leander FD Fire2" list="GATRRS">
+    <id type="talkgroup" value="4479" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Leander" name="Leander FD Disp" list="GATRRS">
+    <id type="talkgroup" value="4900" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-3562496" group="Leander" name="Leander Emergncy" list="GATRRS">
+    <id type="talkgroup" value="4904" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Leander" name="Leander EOC" list="GATRRS">
+    <id type="talkgroup" value="4905" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Leander" name="Leander FD Tac 1" list="GATRRS">
+    <id type="talkgroup" value="4907" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Leander" name="Leander FD Tac 2" list="GATRRS">
+    <id type="talkgroup" value="4908" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Leander" name="Leander PD Disp" list="GATRRS">
+    <id type="talkgroup" value="4909" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Leander" name="Leander PD 4912" list="GATRRS">
+    <id type="talkgroup" value="4912" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Leander" name="Leander PD 4914" list="GATRRS">
+    <id type="talkgroup" value="4914" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Leander" name="Leander FD Tac" list="GATRRS">
+    <id type="talkgroup" value="4925" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Leander" name="Leander FD Admin" list="GATRRS">
+    <id type="talkgroup" value="4927" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2082246" group="Taylor" name="Taylor Fire Prim" list="GATRRS">
+    <id type="talkgroup" value="4951" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Taylor" name="Taylor Police 1" list="GATRRS">
+    <id type="talkgroup" value="4952" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-7697782" group="Taylor" name="Taylor Anml Ctrl" list="GATRRS">
+    <id type="talkgroup" value="4958" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Taylor" name="Taylor PD/FD" list="GATRRS">
+    <id type="talkgroup" value="4964" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Hutto" name="Hutto PD 1" list="GATRRS">
+    <id type="talkgroup" value="4877" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Hutto" name="Hutto PD Talk" list="GATRRS">
+    <id type="talkgroup" value="4882" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Hutto" name="Hutto PD Tac" list="GATRRS">
+    <id type="talkgroup" value="4887" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-7697782" group="Hutto" name="Hutto ISD Common" list="GATRRS">
+    <id type="talkgroup" value="4894" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hutto" name="Hutto Fire Train" list="GATRRS">
+    <id type="talkgroup" value="4898" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Liberty Hill" name="LH FD Admin" list="GATRRS">
+    <id type="talkgroup" value="5038" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Liberty Hill" name="LH FD Tac 1" list="GATRRS">
+    <id type="talkgroup" value="5039" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Liberty Hill" name="LH FD Tac 2" list="GATRRS">
+    <id type="talkgroup" value="5040" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Liberty Hill" name="LH EOC Ops" list="GATRRS">
+    <id type="talkgroup" value="5041" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="Liberty Hill" name="LH PD Talk" list="GATRRS">
+    <id type="talkgroup" value="5061" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-2527309" group="Hays Co (on GATRRS)" name="SetonHays ER 1241" list="GATRRS">
+    <id type="talkgroup" value="1241" protocol="APCO25"/>
+  </alias>
+  <alias color="-2527309" group="Hays Co (on GATRRS)" name="SetonHays ER 5500" list="GATRRS">
+    <id type="talkgroup" value="5500" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Hays Co Law/Interop" name="Hays Co SO 1 (part enc)" list="LCRA">
+    <id type="talkgroup" value="5534" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Hays Co Law/Interop" name="Hays Co SO 2 (part enc)" list="LCRA">
+    <id type="talkgroup" value="5535" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Hays Co Law/Interop" name="Hays SO Traffic" list="LCRA">
+    <id type="talkgroup" value="5538" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Hays Co Law/Interop" name="Hays Co Bailiffs" list="LCRA">
+    <id type="talkgroup" value="5628" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Hays Co Law/Interop" name="Hays Co SWAT 1" list="LCRA">
+    <id type="talkgroup" value="5551" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Hays Co Law/Interop" name="Hays Co SWAT 2" list="LCRA">
+    <id type="talkgroup" value="5552" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Hays Co Law/Interop" name="Hays Co LE 1" list="LCRA">
+    <id type="talkgroup" value="5543" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Hays Co Law/Interop" name="Hays Co LE 2" list="LCRA">
+    <id type="talkgroup" value="5544" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Hays Co Law/Interop" name="Hays Common Buda" list="LCRA">
+    <id type="talkgroup" value="5507" protocol="APCO25"/>
+  </alias>
+  <alias color="-3562496" group="Hays Co Law/Interop" name="Hays Co EOC" list="LCRA">
+    <id type="talkgroup" value="5547" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Hays Co Law/Interop" name="Hays Co COM 1" list="LCRA">
+    <id type="talkgroup" value="5540" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Hays Co Law/Interop" name="Hays Co COM 2" list="LCRA">
+    <id type="talkgroup" value="5541" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Hays Co Law/Interop" name="Hays Co Mutual 1" list="LCRA">
+    <id type="talkgroup" value="5564" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Hays Co Law/Interop" name="Hays Co Mutual 2" list="LCRA">
+    <id type="talkgroup" value="5631" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="Hays Co Law/Interop" name="Hays Co Air 1" list="LCRA">
+    <id type="talkgroup" value="5629" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire Tac" list="LCRA">
+    <id type="talkgroup" value="5553" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire Disp" list="LCRA">
+    <id type="talkgroup" value="5634" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire Alarm" list="LCRA">
+    <id type="talkgroup" value="5635" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire OP 1" list="LCRA">
+    <id type="talkgroup" value="5636" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire OP 2" list="LCRA">
+    <id type="talkgroup" value="5637" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire OP 3" list="LCRA">
+    <id type="talkgroup" value="5638" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire OP 4" list="LCRA">
+    <id type="talkgroup" value="5639" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire OP 5" list="LCRA">
+    <id type="talkgroup" value="5651" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire OP 6" list="LCRA">
+    <id type="talkgroup" value="5652" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire OP 7" list="LCRA">
+    <id type="talkgroup" value="5653" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire OP 8" list="LCRA">
+    <id type="talkgroup" value="5654" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire OP 9" list="LCRA">
+    <id type="talkgroup" value="5655" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Hays Fire OP 10" list="LCRA">
+    <id type="talkgroup" value="5656" protocol="APCO25"/>
+  </alias>
+  <alias color="-2527309" group="Hays Co Fire/EMS" name="Baylor Reports" list="LCRA">
+    <id type="talkgroup" value="5504" protocol="APCO25"/>
+  </alias>
+  <alias color="-2527309" group="Hays Co Fire/EMS" name="CTMC Pt Report" list="LCRA">
+    <id type="talkgroup" value="5509" protocol="APCO25"/>
+  </alias>
+  <alias color="-2527309" group="Hays Co Fire/EMS" name="Seton Hays Pt" list="LCRA">
+    <id type="talkgroup" value="6501" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="N Hays FD Alarm" list="LCRA">
+    <id type="talkgroup" value="5561" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="N Hays FD Ops" list="LCRA">
+    <id type="talkgroup" value="5562" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="S Hays Fire Ops 1" list="LCRA">
+    <id type="talkgroup" value="5602" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="S Hays Fire Ops 2" list="LCRA">
+    <id type="talkgroup" value="5603" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="Hays Co Fire/EMS" name="Wimberley EMS" list="LCRA">
+    <id type="talkgroup" value="5622" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Hays Co Fire/EMS" name="Wimberley FD Tac" list="LCRA">
+    <id type="talkgroup" value="5623" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="San Marcos" name="SM PD Dispatch" list="LCRA">
+    <id type="talkgroup" value="5582" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="San Marcos" name="SM PD Ch 2" list="LCRA">
+    <id type="talkgroup" value="5583" protocol="APCO25"/>
+    <id type="priority" priority="-1"/>
+  </alias>
+  <alias color="-14782503" group="San Marcos" name="SM PD Common 1" list="LCRA">
+    <id type="talkgroup" value="5584" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="San Marcos" name="SM PD Common 2" list="LCRA">
+    <id type="talkgroup" value="5585" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="San Marcos" name="SM FD Dispatch" list="LCRA">
+    <id type="talkgroup" value="5640" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="San Marcos" name="SM FD Response" list="LCRA">
+    <id type="talkgroup" value="5577" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="San Marcos" name="SM FD Ops 1" list="LCRA">
+    <id type="talkgroup" value="5657" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="San Marcos" name="SM FD Ops 2" list="LCRA">
+    <id type="talkgroup" value="5658" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="San Marcos" name="SM FD Ops 3" list="LCRA">
+    <id type="talkgroup" value="5659" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="San Marcos" name="SM FD Ops 4" list="LCRA">
+    <id type="talkgroup" value="5660" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="San Marcos" name="SM FD Ops 5" list="LCRA">
+    <id type="talkgroup" value="5661" protocol="APCO25"/>
+  </alias>
+  <alias color="-2061794" group="San Marcos" name="SM EMS Comm" list="LCRA">
+    <id type="talkgroup" value="5566" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="San Marcos" name="SM Roads PW" list="LCRA">
+    <id type="talkgroup" value="5573" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="San Marcos" name="SM Animal Contrl" list="LCRA">
+    <id type="talkgroup" value="5593" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Kyle" name="Kyle Fire Disp" list="LCRA">
+    <id type="talkgroup" value="5513" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Kyle" name="Kyle PD" list="LCRA">
+    <id type="talkgroup" value="5557" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Kyle" name="Kyle PD 2" list="LCRA">
+    <id type="talkgroup" value="5558" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Kyle" name="Kyle PD 3" list="LCRA">
+    <id type="talkgroup" value="5559" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Buda" name="Buda PublicWorks" list="LCRA">
+    <id type="talkgroup" value="5502" protocol="APCO25"/>
+  </alias>
+  <alias color="-2082246" group="Buda" name="Buda Fire Talk" list="LCRA">
+    <id type="talkgroup" value="5503" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Buda" name="Buda PD Event" list="LCRA">
+    <id type="talkgroup" value="5508" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Buda" name="Buda Parks 1" list="LCRA">
+    <id type="talkgroup" value="5512" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Buda" name="Buda Water 1" list="LCRA">
+    <id type="talkgroup" value="5515" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Buda" name="Buda Wastewater1" list="LCRA">
+    <id type="talkgroup" value="5516" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Buda" name="Buda Streets 1" list="LCRA">
+    <id type="talkgroup" value="5517" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Buda" name="Buda Parks 2" list="LCRA">
+    <id type="talkgroup" value="5525" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Texas State Univ" name="Texas St UPD Dis" list="LCRA">
+    <id type="talkgroup" value="5606" protocol="APCO25"/>
+  </alias>
+  <alias color="-14782503" group="Texas State Univ" name="Texas St UPD Evt" list="LCRA">
+    <id type="talkgroup" value="5610" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Hays Schools" name="Hays CISD Bus 1" list="LCRA">
+    <id type="talkgroup" value="14015" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Hays Schools" name="Hays CISD Bus 2" list="LCRA">
+    <id type="talkgroup" value="14016" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Hays Schools" name="Hays CISD Bus 3" list="LCRA">
+    <id type="talkgroup" value="14017" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Hays Schools" name="Hays CISD Bus 4" list="LCRA">
+    <id type="talkgroup" value="14018" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Hays Schools" name="SMISD BUS 1" list="LCRA">
+    <id type="talkgroup" value="14030" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Hays Schools" name="SMISD BUS 2" list="LCRA">
+    <id type="talkgroup" value="14031" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Hays Schools" name="SMISD BUS 3" list="LCRA">
+    <id type="talkgroup" value="14032" protocol="APCO25"/>
+  </alias>
+  <alias color="-7697782" group="Hays Schools" name="SMISD ALL" list="LCRA">
+    <id type="talkgroup" value="14033" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="LCRA Interop" name="PublicCommn1" list="LCRA">
+    <id type="talkgroup" value="6518" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="LCRA Interop" name="PublicCommn2" list="LCRA">
+    <id type="talkgroup" value="6519" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="LCRA Interop" name="Fire Comm 1" list="LCRA">
+    <id type="talkgroup" value="6520" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="LCRA Interop" name="Fire Comm 2" list="LCRA">
+    <id type="talkgroup" value="6521" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="LCRA Interop" name="Fire Comm 3" list="LCRA">
+    <id type="talkgroup" value="6522" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="LCRA Interop" name="Hill Comm" list="LCRA">
+    <id type="talkgroup" value="6530" protocol="APCO25"/>
+  </alias>
+  <alias color="-13720725" group="LCRA Interop" name="TXCALL1D" list="LCRA">
+    <id type="talkgroup" value="11012" protocol="APCO25"/>
+  </alias>
+  <channel system="GATRRS" name="GATRRS Williamson Simulcast" enabled="false" site="Williamson Simulcast (1-20)" order="1">
+    <alias_list_name>GATRRS</alias_list_name>
+    <event_log_configuration/>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="500" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>857962500</frequency>
+      <frequency>858962500</frequency>
+      <frequency>859587500</frequency>
+      <frequency>859962500</frequency>
+    </source_configuration>
+    <aux_decode_configuration/>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="CQPSK" ignore_data_calls="false" traffic_channel_pool_size="20" xmlns:wstxns1="http://www.w3.org/2001/XMLSchema-instance" wstxns1:jmbeAGC="true" wstxns1:jmbeToneGain="1.0" wstxns1:jmbeNoiseGain="1.0"/>
+    <record_configuration/>
+  </channel>
+  <channel system="LCRA P25" name="LCRA San Marcos Simulcast" enabled="false" site="San Marcos Simulcast (155-55)" order="2">
+    <alias_list_name>LCRA</alias_list_name>
+    <event_log_configuration/>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="500" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>769531250</frequency>
+      <frequency>770306250</frequency>
+      <frequency>771506250</frequency>
+      <frequency>772281250</frequency>
+      <frequency>773581250</frequency>
+      <frequency>774206250</frequency>
+      <frequency>774331250</frequency>
+    </source_configuration>
+    <aux_decode_configuration/>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="CQPSK" ignore_data_calls="false" traffic_channel_pool_size="20" xmlns:wstxns2="http://www.w3.org/2001/XMLSchema-instance" wstxns2:jmbeAGC="true" wstxns2:jmbeToneGain="1.0" wstxns2:jmbeNoiseGain="1.0"/>
+    <record_configuration/>
+  </channel>
+  <channel system="LCRA P25" name="LCRA Hays North Simulcast" enabled="false" site="Hays North Simulcast (150-50)" order="3">
+    <alias_list_name>LCRA</alias_list_name>
+    <event_log_configuration>
+      <logger>CALL_EVENT</logger>
+      <logger>DECODED_MESSAGE</logger>
+      <logger>TRAFFIC_CALL_EVENT</logger>
+      <logger>TRAFFIC_DECODED_MESSAGE</logger>
+    </event_log_configuration>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="500" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>769193750</frequency>
+      <frequency>769656250</frequency>
+      <frequency>769943750</frequency>
+      <frequency>770406250</frequency>
+      <frequency>770693750</frequency>
+      <frequency>772031250</frequency>
+      <frequency>772856250</frequency>
+    </source_configuration>
+    <aux_decode_configuration/>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="CQPSK" ignore_data_calls="false" traffic_channel_pool_size="20" xmlns:wstxns3="http://www.w3.org/2001/XMLSchema-instance" wstxns3:jmbeAGC="true" wstxns3:jmbeToneGain="1.0" wstxns3:jmbeNoiseGain="1.0"/>
+    <record_configuration/>
+  </channel>
+  <channel system="LCRA P25" name="LCRA Hays South Simulcast" enabled="false" site="Hays South Simulcast (160-60)" order="4">
+    <alias_list_name>LCRA</alias_list_name>
+    <event_log_configuration/>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="500" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>769806250</frequency>
+      <frequency>770718750</frequency>
+      <frequency>771206250</frequency>
+      <frequency>771856250</frequency>
+      <frequency>772581250</frequency>
+      <frequency>773056250</frequency>
+      <frequency>773406250</frequency>
+      <frequency>773806250</frequency>
+      <frequency>774093750</frequency>
+      <frequency>774556250</frequency>
+    </source_configuration>
+    <aux_decode_configuration/>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="CQPSK" ignore_data_calls="false" traffic_channel_pool_size="20" xmlns:wstxns4="http://www.w3.org/2001/XMLSchema-instance" wstxns4:jmbeAGC="true" wstxns4:jmbeToneGain="1.0" wstxns4:jmbeNoiseGain="1.0"/>
+    <record_configuration/>
+  </channel>
+  <channel system="LCRA P25" name="LCRA Wimberley" enabled="false" site="Wimberley (126-26)" order="5">
+    <alias_list_name>LCRA</alias_list_name>
+    <event_log_configuration/>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="500" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>769218750</frequency>
+      <frequency>769468750</frequency>
+      <frequency>769931250</frequency>
+      <frequency>770218750</frequency>
+      <frequency>770456250</frequency>
+      <frequency>770681250</frequency>
+      <frequency>770968750</frequency>
+    </source_configuration>
+    <aux_decode_configuration/>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="C4FM" ignore_data_calls="false" traffic_channel_pool_size="20" xmlns:wstxns5="http://www.w3.org/2001/XMLSchema-instance" wstxns5:jmbeAGC="true" wstxns5:jmbeToneGain="1.0" wstxns5:jmbeNoiseGain="1.0"/>
+    <record_configuration/>
+  </channel>
+  <channel system="LCRA P25" name="LCRA West Hays" enabled="false" site="West Hays (114-14)" order="6">
+    <alias_list_name>LCRA</alias_list_name>
+    <event_log_configuration>
+      <logger>CALL_EVENT</logger>
+      <logger>DECODED_MESSAGE</logger>
+      <logger>TRAFFIC_CALL_EVENT</logger>
+      <logger>TRAFFIC_DECODED_MESSAGE</logger>
+    </event_log_configuration>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="500" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>773306250</frequency>
+      <frequency>773593750</frequency>
+      <frequency>774056250</frequency>
+      <frequency>774343750</frequency>
+      <frequency>774806250</frequency>
+    </source_configuration>
+    <aux_decode_configuration/>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="C4FM" ignore_data_calls="false" traffic_channel_pool_size="20" xmlns:wstxns6="http://www.w3.org/2001/XMLSchema-instance" wstxns6:jmbeAGC="true" wstxns6:jmbeToneGain="1.0" wstxns6:jmbeNoiseGain="1.0"/>
+    <record_configuration/>
+  </channel>
+</playlist>

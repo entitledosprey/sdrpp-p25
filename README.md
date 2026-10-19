@@ -129,6 +129,13 @@ them from an SDRTrunk playlist:
 python3 scripts/import_sdrtrunk.py my_playlist.xml
 ```
 
+`examples/` has two playlists to try the import with:
+- `example_playlist.xml`: a tiny fictional system.
+- `central_texas_p25_playlist.xml`: a real-world SDRTrunk playlist for two Central Texas P25
+  Phase II systems (GATRRS and LCRA), with 6 sites (4 simulcast) and 342 talkgroups.
+  Frequencies and talkgroups change over time, so check them against RadioReference before
+  relying on them.
+
 Or write one by hand (see `examples/example_profile.json`):
 
 ```json

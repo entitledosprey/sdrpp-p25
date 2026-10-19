@@ -9,9 +9,12 @@ wider than a 2.4 MS/s RTL-SDR window, so single-tuner retune-per-call is require
 talkgroups must be skipped and never decrypted. No keys are ever configured, and the module
 never sends `key_*`, `decryption_*` or `force_*` API commands.
 
-Repo hygiene: the code and examples must not contain real system names, sites, frequencies,
+Repo hygiene: the code, docs and tests must not contain real system names, sites, frequencies,
 locations, or anything about how the code was written. Use the fictional "Example System" on
-851–856 MHz. Users' own playlists and profiles live in `~/.config/sdrpp/p25_trunking/`, and
+851–856 MHz. The one exception, added at the owner's request, is
+`examples/central_texas_p25_playlist.xml`: a real public-system SDRTrunk playlist (GATRRS and
+LCRA, 6 sites, 342 talkgroups) for trying the importer. Don't add other real data alongside it.
+The live-test notes below stay generic. Users' own playlists and profiles live in `~/.config/sdrpp/p25_trunking/`, and
 `.gitignore` excludes `*.xml` outside `examples/`.
 
 ## Design decision: dsd-neo sidecar

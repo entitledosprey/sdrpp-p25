@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- `examples/central_texas_p25_playlist.xml`: a real-world SDRTrunk playlist (two Central Texas P25
+  Phase II systems, 6 sites, 342 talkgroups) for trying the importer.
 - Documentation: how the solution works, a complete install guide, troubleshooting, and
   development notes covering design decisions, verified decoder/SDR++ behaviour and a runbook.
 
